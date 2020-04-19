@@ -1,0 +1,20 @@
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Release\Peter.exe.config
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Release\Peter.exe
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Release\Peter.pdb
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.Home.resources
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.Properties.Resources.resources
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.csproj.GenerateResource.Cache
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.exe
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.pdb
+C:\Users\Shadrack Ikwabe\documents\visual studio 2015\Projects\Peter\Peter\obj\Release\Peter.csprojResolveAssemblyReference.cache
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\bin\Release\Peter.exe.config
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.exe
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.pdb
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\bin\Release\Peter.exe
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\bin\Release\Peter.pdb
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\bin\Release\Bunifu_UI_v1.5.3.dll
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.csprojResolveAssemblyReference.cache
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.Home.resources
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.Properties.Resources.resources
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Release\Peter.csproj.GenerateResource.Cache

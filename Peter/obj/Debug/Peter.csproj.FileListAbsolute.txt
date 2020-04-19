@@ -1,0 +1,48 @@
+c:\users\shadrack ikwabe\documents\visual studio 2015\Projects\Peter\Peter\bin\Debug\Peter.exe.config
+c:\users\shadrack ikwabe\documents\visual studio 2015\Projects\Peter\Peter\bin\Debug\Peter.exe
+c:\users\shadrack ikwabe\documents\visual studio 2015\Projects\Peter\Peter\bin\Debug\Peter.pdb
+c:\users\shadrack ikwabe\documents\visual studio 2015\Projects\Peter\Peter\obj\Debug\Peter.csprojResolveAssemblyReference.cache
+c:\users\shadrack ikwabe\documents\visual studio 2015\Projects\Peter\Peter\obj\Debug\Peter.Properties.Resources.resources
+c:\users\shadrack ikwabe\documents\visual studio 2015\Projects\Peter\Peter\obj\Debug\Peter.csproj.GenerateResource.Cache
+c:\users\shadrack ikwabe\documents\visual studio 2015\Projects\Peter\Peter\obj\Debug\Peter.exe
+c:\users\shadrack ikwabe\documents\visual studio 2015\Projects\Peter\Peter\obj\Debug\Peter.pdb
+C:\Users\Shadrack Ikwabe\documents\visual studio 2015\Projects\Peter\Peter\obj\Debug\Peter.Home.resources
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Peter.exe.config
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Debug\Peter.exe
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Debug\Peter.pdb
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Peter.exe
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Peter.pdb
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Debug\Peter.csprojResolveAssemblyReference.cache
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Debug\Peter.Home.resources
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Debug\Peter.Properties.Resources.resources
+E:\Backups for Visual Studio Projects\Visual Studio 2015\Projects\Peter\Peter\obj\Debug\Peter.csproj.GenerateResource.Cache
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\obj\Debug\Peter.DashBoard.resources
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\obj\Debug\Peter.csproj.ResolveComReference.cache
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\ExcelLibrary.dll
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Shadrack Ikwabe\Documents\Visual Studio 2015\Projects\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.csprojAssemblyReference.cache
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.csproj.ResolveComReference.cache
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.DashBoard.resources
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.Home.resources
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.Properties.Resources.resources
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.csproj.GenerateResource.cache
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.csproj.CoreCompileInputs.cache
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.exe
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.pdb
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Peter.exe.config
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Peter.exe
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Peter.pdb
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.csproj.CopyComplete
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.phaseOne.resources
+C:\Users\ikwab\Source\Repos\gitApp\Peter\Peter\obj\Debug\Peter.phaseTwo.resources
